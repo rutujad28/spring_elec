@@ -1,0 +1,7 @@
+electricity-bill-calculator/src/main/java/com/example/electricitybillcalculator/BillController.java
+electricity-bill-calculator/src/main/java/com/example/electricitybillcalculator/BillForm.java
+electricity-bill-calculator/src/main/java/com/example/electricitybillcalculator/ElectricityBillCalculatorApplication.java
+
+electricity-bill-calculator/src/main/resources/templates/index.html
+electricity-bill-calculator/src/main/resources/templates/result.html
+
